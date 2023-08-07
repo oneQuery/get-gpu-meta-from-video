@@ -1,0 +1,7 @@
+*.tar.gz
+*.txt
+
+.vscode
+__pycache__
+
+Image-ExifTool-12.64
