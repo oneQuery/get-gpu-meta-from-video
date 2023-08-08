@@ -36,9 +36,9 @@ if __name__=="__main__":
         os.system(untar_cmd)
     
     root = "/Users/heesukim/Downloads"
-    poc_ver = "poc_02"  # no gps info at all
+    # poc_ver = "poc_02"  # no gps info at all
     # poc_ver = "poc_10"
-    # poc_ver = "poc_11"
+    poc_ver = "poc_11"
     exe = "Image-ExifTool-12.64/exiftool"
     
     video_root = os.path.join(root, poc_ver)
