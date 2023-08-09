@@ -1,0 +1,30 @@
+/Users/heesukim/Downloads/poc_01/P01_0017.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0016.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0002.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0028.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0014.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0001.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0015.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0029.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0011.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0010.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0012.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0013.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0022.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0023.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0009.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0021.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0020.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0030.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0024.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0018.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0019.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0025.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0027.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0026.MP4: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0034.MOV: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0033.MOV: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0032.MOV: gps exists
+/Users/heesukim/Downloads/poc_01/P01_0031.MOV: gps exists
+num_have_gps: 28
+done

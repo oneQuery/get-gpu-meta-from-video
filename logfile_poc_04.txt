@@ -1,0 +1,25 @@
+/Users/heesukim/Downloads/poc_04/P04_0584.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_1317.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0583.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_1139.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0582.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0580.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0581.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_1140.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0511.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0512.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0003.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0215.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_1056.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0214.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0002.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_1054.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_1055.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0001.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0373.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0372.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_1318.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0370.MOV: gps exists
+/Users/heesukim/Downloads/poc_04/P04_0371.MOV: gps exists
+num_have_gps: 23
+done
